@@ -4,6 +4,7 @@ node_js:
 
 install:
   - npm install -g tap kanso
+  - npm install
 
 env: DB=couchdb
 
