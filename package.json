@@ -1,0 +1,9 @@
+{
+  "description": "A simple hello-world Couch app",
+  "devDependencies": {
+    "tap": "~0.2.3"
+  },
+  "name": "hello_world",
+  "private": true,
+  "version": "0.1.0"
+}
