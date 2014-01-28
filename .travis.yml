@@ -10,4 +10,5 @@ env: DB=couchdb
 before_script:
   - curl -X PUT localhost:5984/kanso-example-app
 
-script: "kanso install; kanso push http://localhost:5984/kanso-example-app; tap test"
+#script: "kanso install; kanso push http://localhost:5984/kanso-example-app; tap test"
+script: "kanso install; tap test"
