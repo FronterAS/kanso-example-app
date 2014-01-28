@@ -10,6 +10,7 @@
     "modules": null,
     "properties": null,
     "db": null,
-    "jquery": null
+    "jquery": null,
+    "node-couchapp": null
   }
 }
