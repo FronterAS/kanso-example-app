@@ -1,2 +1,3 @@
 packages/*
 data/*with-ids.json
+node_modules/*
